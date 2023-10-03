@@ -22,4 +22,4 @@ yang dipake:
 
   kemudian, awalnya tidak bisa menyimpan image, setelah di ubah menjadi url bentuk yang disimpan ke db nya, bisa tersimpan.
   
-  akan tetapi, ketika di ambil kembali untuk ditampilkan, image tidak tampak.
+  akan tetapi, ketika di ambil kembali untuk ditampilkan, image tidak tampak. kemungkinan karena url dari imagenya sendiri kurang jelas.
