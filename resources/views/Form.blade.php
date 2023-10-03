@@ -30,7 +30,7 @@
                 <input type="text" class="form-control" id="input3" name="field3" required> 
 
             <div class="mb-3">
-                <label for="input4" class="form-label">Foto DOSA mu(Image, Max Size: 2MB)</label>
+                <label for="input4" class="form-label">Foto DOSA mu(.png/.jpg, Max Size: 2MB)</label>
                 <input type="file" class="form-control" id="input4" name="field4" accept=".png, .jpg" required>
             </div>
 

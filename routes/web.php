@@ -24,3 +24,4 @@ Route::get('/success', function () {
     return view('success');
 })->name('form.success'); // Added a route for the success page
 
+Route::get('/form/{id}', 'App\Http\Controllers\FormController@show');
